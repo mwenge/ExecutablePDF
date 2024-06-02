@@ -3,7 +3,9 @@ Use [Actually Portable Executable](https://justine.lol/ape.html) and inspiration
 "A guide to ICO/PDF polyglot files" in [Paged Out](https://pagedout.institute/download/PagedOut_001_beta1.pdf)
 to create a PDF file that you can both view in a PDF viewer and execute from the command line.
 
-When executed from the command line, the PDF runs an executable program that is embedded in it.
+When viewed in a PDF viewer, it's a PDF document that can contain whatever PDF content you wish to publish.
+When executed from the command line, the PDF runs an executable program that is embedded in it. This can be any
+program you wish to compile in [ape](https://justine.lol/ape.html) format.
 
 Try out the example `hello.pdf`:
 ```bash
@@ -11,5 +13,5 @@ evince hello.pdf
 ./hello.pdf
 ```
 
-If you want to recreate it for yourself, try [Create Executable PDF.ipynb].
+If you want to recreate it for yourself, try (Create Executable PDF.ipynb).
 
