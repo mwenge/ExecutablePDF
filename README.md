@@ -14,5 +14,5 @@ evince hello.pdf
 ./hello.pdf
 ```
 
-If you want to recreate it for yourself, try [the Jupyter notebook](Create Executable PDF.ipynb).
+If you want to recreate it for yourself, try [the Jupyter notebook](Create%20Executable%20PDF.ipynb).
 
