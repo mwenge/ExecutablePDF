@@ -8,7 +8,7 @@ When viewed in a PDF viewer, it's a PDF document that can contain whatever PDF c
 When executed from the command line, the PDF runs an executable program that is embedded in it. This can be any
 program you wish to compile in [ape](https://justine.lol/ape.html) format.
 
-Try out the example `hello.pdf`:
+Try out the example `hello.pdf` in Linux:
 ```bash
 evince hello.pdf
 ./hello.pdf
