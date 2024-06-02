@@ -11,7 +11,18 @@ program you wish to compile in [ape](https://justine.lol/ape.html) format.
 Try out the example `hello.pdf` in Linux:
 ```bash
 evince hello.pdf
+```
+This shows:
+
+
+Now try running the same file from the command line, as though it was a program:
+```bash
 ./hello.pdf
+```
+Which it is:
+```bash
+[mwenge@mwenge ExecutablePDF (master)]$ ./hello.pdf
+I'm also a little Computer Program!
 ```
 
 If you want to recreate it for yourself, try [the Jupyter notebook](Create%20Executable%20PDF.ipynb).
