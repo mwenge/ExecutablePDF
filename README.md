@@ -14,12 +14,14 @@ evince hello.pdf
 ```
 This shows:
 
+![image](https://github.com/mwenge/ExecutablePDF/assets/58846/aa9c2682-d64a-46cc-831e-8e55a51ef6c5)
+
 
 Now try running the same file from the command line, as though it was a program:
 ```bash
 ./hello.pdf
 ```
-Which it is:
+It runs, and confirms that I'm not making this whole thing up:
 ```bash
 [mwenge@mwenge ExecutablePDF (master)]$ ./hello.pdf
 I'm also a little Computer Program!
