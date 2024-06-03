@@ -26,6 +26,9 @@ It runs, and confirms that I'm not making this whole thing up:
 [mwenge@mwenge ExecutablePDF (master)]$ ./hello.pdf
 I'm also a little Computer Program!
 ```
+It also runs on Windows 11:
+
+![image](https://github.com/mwenge/ExecutablePDF/assets/58846/857096a5-b256-44a1-9b7a-8e5b15da23aa)
 
 If you want to recreate it for yourself, try [the Jupyter notebook](Create%20Executable%20PDF.ipynb).
 
